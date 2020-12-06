@@ -3,6 +3,7 @@
 
 想要自动生成问题请先运行**writeQA3.py**，再运行**joint.py**  
 请注意文件路径以及参数设置  
+参数示例见[release-link](https://github.com/WILDCHAP/auto_question_TableQA/releases/download/1.0/default.writeQA)
 
 本代码只能对**TableQA类型的表(json)**进行问题生成  
 需要把表转换成TableQA格式请参见[json_2_TableQA](https://github.com/WILDCHAP/json_2_TableQA)
